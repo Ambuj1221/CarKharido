@@ -1,2 +1,41 @@
-# HTML-CSS-Responsive-Cars-Website
-Complete responsive car selling single page website design using html css and vanilla javascript from scratch.The main feature of this website are: ✔ responsive header / navbar with toggle navbar menu and login form effect using vanilla javascript. ✔ responsive home / hero section with parallax hover effect using vanilla javascript. ✔ responsive vehicles touch mobile slider section using swiper.js ✔ responsive services section using css grid. ✔ responsive featured car section touch mobile slider using swiper.js ✔ responsive newsletter. ✔ responsive review / testimonial touch mobile slider using swiper.js ✔ responsive contact section using css flexbox. ✔ responsive footer section using css grid.
+# 🚗 Responsive Car Selling Website
+
+A fully responsive **Single Page Car Selling Website** built using **HTML**, **CSS**, **Vanilla JavaScript**, and **Swiper.js**. This project is a complete frontend-only design featuring smooth animations, sliders, and mobile responsiveness for all devices.
+
+## 🌟 Features
+
+- ✅ **Responsive Header & Navbar**
+  - Hamburger menu for mobile view
+  - Toggleable login form using JavaScript
+
+- ✅ **Hero Section**
+  - Parallax hover effect using Vanilla JS
+  - Call-to-action buttons
+
+- ✅ **Vehicles Section**
+  - Touch-enabled slider using [Swiper.js](https://swiperjs.com/)
+  - Beautiful layout for showcasing cars
+
+- ✅ **Services Section**
+  - CSS Grid based responsive layout
+  - Icon-based features (repair, finance, etc.)
+
+- ✅ **Featured Cars Section**
+  - Swiper.js slider with images and details
+
+- ✅ **Newsletter Subscription**
+  - Simple and responsive form
+
+- ✅ **Testimonials Section**
+  - Swiper.js slider for customer reviews
+
+- ✅ **Contact Section**
+  - Flexbox layout for contact form and information
+
+- ✅ **Responsive Footer**
+  - Grid layout with quick links and social icons
+
+---
+
+## 📂 Folder Structure
+
